@@ -16,6 +16,4 @@ Clazz.Base,
             // bind all elements once rendered to provide events
             this.bindUI();
         }
-
-        fdvgfdfd
-\ijhynghbngbngn
+ohohohohhoohohohohohohooh
