@@ -17,4 +17,4 @@ Clazz.Base,
             this.bindUI();
         }
 
-        hihi
+        haha
