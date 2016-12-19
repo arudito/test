@@ -17,6 +17,7 @@ Clazz.Base,
             this.bindUI();
         },
 	postRender : function(element) {
+	//test github
 		this.render();
 	},
 }
