@@ -17,6 +17,6 @@ Clazz.Base,
             this.bindUI();
         },
 	postRender : function(element) {
-
+		this.render();
 	},
 }
